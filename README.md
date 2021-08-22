@@ -1,1 +1,3 @@
-# CSC-234
+# CSC 234
+
+Tracey Pinckney

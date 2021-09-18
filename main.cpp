@@ -37,7 +37,7 @@ using namespace std;
  //Brief explaination about the game
     cout << "\t-----------Fantasy Land--------------\n";
     cout << endl;
-    cout << "Welcome to Fantasy land! Where you decide your fate! There is one problem...\nYou\'re now in the middle of a war between globins and the people of Aguard." << '\n';
+    cout << "Welcome to Fantasy land! Where you decide your fate! There is one problem...\nYou\'re now in the middle of a war between globin and the people of Aguard." << '\n';
     cout << endl;
     cout << "\t-------------------------------------\n";
     
@@ -107,7 +107,8 @@ void sword_Shield(){
     cout << "Great! You now have the sword and sheild. Now lets Fight!\n";
     cout << endl;
     lineBreaker();
-    cout << "To end this war and bring freedom to the people of Asguard."; cout << "You must kill the chief globin who is west of you but this globin is 10 times the size of the other goblins. "<< endl; 
+    cout << "To end this war and bring freedom to the people of Asguard."; cout << "You must kill the chief globin who is west of you but this globin is 10"
+    cout << "times the size of the other goblins. "<< endl; 
     cout << endl;
     cout << "To go west type west. If you change your mind type east:\n";
     endWar();
